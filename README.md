@@ -5,14 +5,13 @@ Un plugin para añadir https://xbt.puntotorrent.ch en la lista de proveedores de
 Instalación
 ===========
 
-####Dos Opciones 
-######Opción 1
+####Opción 1
   - Desde CouchPotato ir a Settings->About->Directorios y la segunda carpeta es la carpeta de datos.
   - En la carpeta de datos navegar a la subcarpeta custom\_plugins y dentro crear una subcarpeta llamada puntotorrent
   - Colocar los ficheros \_\_init\_\_.py y main.py en la carpeta recien creada.
   - Reiniciar CouchPotato.
 
-######Opción 2 (Requiere Git)
+####Opción 2 (Requiere Git)
   - Desde CouchPotato ir a Settings->About->Directorios y la segunda carpeta es la carpeta de datos.
   - En la carpeta de datos harbrá una carpeta custom\_plugins folder. Abrir un terminal en la carpeta custom\_plugins.
   - Ejecutar run `git clone https://github.com/Infinitte/puntotorrentCouchpotatoPlugin.git puntotorrent`.
