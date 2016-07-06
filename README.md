@@ -1,5 +1,4 @@
-# puntotorrentCouchpotatoPlugin
-==============================
+# puntotorrentCouchpotatoPlugin==============================
 Un plugin para añadir https://xbt.puntotorrent.ch en la lista de proveedores de CouchPotato.
 
 Instalación
