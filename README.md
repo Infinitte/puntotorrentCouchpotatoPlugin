@@ -25,4 +25,4 @@ En CouchPotato ir a Settings->Searcher y configurar como cualquier otro proveedo
 
 Incidencias/Actualizaciones
 ===========
-Ir a github.com/Infinitte/puntotorrentCouchpotatoPlugin/
+Ir a https://github.com/Infinitte/puntotorrentCouchpotatoPlugin/
