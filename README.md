@@ -26,3 +26,7 @@ En CouchPotato ir a Settings->Searcher y configurar como cualquier otro proveedo
 Incidencias/Actualizaciones
 ===========
 Ir a https://github.com/Infinitte/puntotorrentCouchpotatoPlugin/
+
+Donaciones
+===========
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/Infinitte/1)
