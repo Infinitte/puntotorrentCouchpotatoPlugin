@@ -29,4 +29,4 @@ Ir a https://github.com/Infinitte/puntotorrentCouchpotatoPlugin/
 
 Donaciones
 ===========
-[![Donate](https://img.shields.io/badge/Donaciones-Paypal-yellow.svg)](https://www.paypal.me/Infinitte/1)
+[![Donate](https://img.shields.io/badge/Donaciones-Paypal-yellow.svg)](https://www.paypal.me/Infinitte)
