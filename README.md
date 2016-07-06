@@ -1,8 +1,6 @@
 # puntotorrentCouchpotatoPlugin
 ==============================
-
 Un plugin para añadir https://xbt.puntotorrent.ch en la lista de proveedores de CouchPotato.
-
 
 Instalación
 ===========
@@ -21,11 +19,9 @@ Instalación
   - Para actualizar en el futuro, tan sólo ejecutar `git pull` desde la carpeta puntotorrent.
   - Reiniciar CouchPotato.
 
-
 Uso
 ===========
 En CouchPotato ir a Settings->Searcher y configurar como cualquier otro proveedor. Si PuntoTorrent no aparece como opción, refrescar el navegador con CTRL + F5 o vaciar la caché del mismo.
-
 
 Incidencias/Actualizacioness
 ===========
