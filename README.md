@@ -7,26 +7,26 @@ Un plugin para añadir https://xbt.puntotorrent.ch en la lista de proveedores de
 Instalación
 ===========
 
-####Two Install Options 
-######Option 1
+####Dos Opciones 
+######Opción 1
   - Desde CouchPotato ir a Settings->About->Directorios y la segunda carpeta es la carpeta de datos.
-  - En la carpeta de datos navegar a la subcarpeta custom\_plugins folder y dentro crear una subcarpeta llamada puntotorrent
-  - Colocar los ficheros Simply place the readme.txt, init.py and main.py files inside the tehconnection folder.
-  - Restart CouchPotato.
+  - En la carpeta de datos navegar a la subcarpeta custom\_plugins y dentro crear una subcarpeta llamada puntotorrent
+  - Colocar los ficheros \_\_init\_\_.py y main.py en la carpeta recien creada.
+  - Reiniciar CouchPotato.
 
-######Option 2 (Requires Git)
-  - From CouchPotato go to Settings->About->Directories and the second folder is the location of your data folder.
-  - In your data folder there will be a custom\_plugins folder. Open a terminal at the custom\_plugins folder.
-  - From the custom\_plugins folder run `git clone https://github.com/flightlevel/TehConnectionCouchPotatoPlugin.git tehconnection`
-  - If you ever need to update, you can simply run `git pull` from the tehconnection folder.
-  - Restart CouchPotato.
+######Opción 2 (Requiere Git)
+  - Desde CouchPotato ir a Settings->About->Directorios y la segunda carpeta es la carpeta de datos.
+  - En la carpeta de datos harbrá una carpeta custom\_plugins folder. Abrir un terminal en la carpeta custom\_plugins.
+  - Ejecutar run `git clone https://github.com/Infinitte/puntotorrentCouchpotatoPlugin.git puntotorrent`.
+  - Para actualizar en el futuro, tan sólo ejecutar `git pull` desde la carpeta puntotorrent.
+  - Reiniciar CouchPotato.
 
 
 Uso
 ===========
-From CouchPotato go to Settings->Searcher to configure just like any other provider. If TehConnection doesn't appear as an option, refresh your browser using CTRL + F5 as you may be seeing a cached version.
+En CouchPotato ir a Settings->Searcher y configurar como cualquier otro proveedor. Si PuntoTorrent no aparece como opción, refrescar el navegador con CTRL + F5 o vaciar la caché del mismo.
 
 
-Issues/Updates
+Incidencias/Actualizacioness
 ===========
-Go to github.com/flightlevel/TehConnectionCouchPotatoPlugin/
+Ir a github.com/Infinitte/puntotorrentCouchpotatoPlugin/
