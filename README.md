@@ -1,0 +1,2 @@
+# puntotorrentCouchpotatoPlugin
+Plugin CouchPotato para PuntoTorrent
