@@ -13,7 +13,7 @@ Instalación
 
 ####Opción 2 (Requiere Git)
   - Desde CouchPotato ir a Settings->About->Directorios y la segunda carpeta es la carpeta de datos.
-  - En la carpeta de datos harbrá una carpeta custom\_plugins folder. Abrir un terminal en la carpeta custom\_plugins.
+  - En la carpeta de datos habrá una carpeta custom\_plugins folder. Abrir un terminal en la carpeta custom\_plugins.
   - Ejecutar run `git clone https://github.com/Infinitte/puntotorrentCouchpotatoPlugin.git puntotorrent`.
   - Para actualizar en el futuro, tan sólo ejecutar `git pull` desde la carpeta puntotorrent.
   - Reiniciar CouchPotato.
